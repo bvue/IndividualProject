@@ -3,13 +3,13 @@
           My New Header!
         </div>
         <div id="logo">
-          <a href="#">Advanced Java</a>
+          <a href="#">EE Java</a>
         </div>
       </div>
       <div id="menu">
         <ul>
           <li>
-            <a href="/java112/">Home</a>
+            <a href="">Home</a>
           </li>
           <li>
             <a href="#">About Us</a>
