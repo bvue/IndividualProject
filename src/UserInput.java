@@ -5,7 +5,6 @@ public class UserInput {
 
     /**
      *  Gets the userInput attribute
-     *
      *@return         The userInput value
      */
     public String getUserInput() {
