@@ -8,8 +8,7 @@ public class Users {
     private String firstName;
     private String lastName;
     private String emailAddress;
-    private String password; // at some point this should be hashed/salted
-    // rather than plain text
+    private String password; //not sure if I will need this
 
 
     public Users() {
