@@ -5,7 +5,6 @@ public class UserInput {
 
     /**
      *  Gets the userInput attribute
-     *  of the InputHelper object
      *
      *@return         The userInput value
      */
