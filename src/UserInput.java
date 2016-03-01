@@ -7,6 +7,8 @@ public class UserInput {
      *  Gets the userInput attribute
      *@return         The userInput value
      */
+
+    /*
     public String getUserInput() {
         String  inputLine  = null;
         try {
@@ -23,4 +25,5 @@ public class UserInput {
 
         return inputLine.toLowerCase();
     }
+    */
 }

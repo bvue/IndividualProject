@@ -17,3 +17,10 @@ On another note, I don't care too much for the extracirriculars mainly because I
  
 # Week 3:
 I feel super over whelmed with everything that I need to get done. Learning a bunch of new applications, learning new Java material, keeping up with the exercises, going to extra cirricular activities, creating a powerpoint presentation for the extra cirricular activities, implementing the new material into my project, story boarding my GUI, actually coding my individual project, finding time for my other 3 classes, working full time... Definitely feeling like I have too much on my plate right now. I don't know how moms do it.
+
+
+# Week 4:
+
+
+# Week 5:
+Worked on getting security added to my project.
