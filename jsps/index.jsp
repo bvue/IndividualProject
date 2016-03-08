@@ -15,9 +15,12 @@
       <!-- header -->
 
         <c:import url="header.jsp" />
+        <c:import url="content.jsp" />
 
       <!-- main -->
       <div id="main">
+
+        <c:import url="login.jsp" />
 
       </div><!-- end main -->
 

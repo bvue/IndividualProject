@@ -24,3 +24,6 @@ I feel super over whelmed with everything that I need to get done. Learning a bu
 
 # Week 5:
 Worked on getting security added to my project.
+
+# Week 6:
+Somehow I lost some files in my IdeasProject folder. Lately, I've been moving around some files and I must've accidentally deleted them! Darn it. This week I am trying to configure the security and trying to find wsdl's that could possibly work in my app. My team and I also have the beginning stages of our application set to go. We are working on an application that will automate a rotational schedule I currently have to put together at work. I am also keeping extracirricular 2 in the back of my mind. It'd be cool to do some Java related volunteer program. I will have to look into this later.
